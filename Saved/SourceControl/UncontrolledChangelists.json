@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Horizoners/source/repos/MyProject2/Content/QuestSystem/DA_SubQuest.uasset",
+				"C:/Users/Horizoners/source/repos/MyProject2/Content/QuestSystem/STR_SubQuestCompletion.uasset",
+				"C:/Users/Horizoners/source/repos/MyProject2/Content/QuestSystem/SubQuests/SQ_Level1.uasset",
+				"C:/Users/Horizoners/source/repos/MyProject2/Content/QuestSystem/DA_Quest.uasset",
+				"C:/Users/Horizoners/source/repos/MyProject2/Content/QuestSystem/BP_QuestManager.uasset",
+				"C:/Users/Horizoners/source/repos/MyProject2/Content/QuestSystem/Quests/Q_Area1.uasset",
+				"C:/Users/Horizoners/source/repos/MyProject2/Content/QuestSystem/SubQuests/SQ_Level2.uasset",
+				"C:/Users/Horizoners/source/repos/MyProject2/Content/QuestSystem/BP_Interactable.uasset",
+				"C:/Users/Horizoners/source/repos/MyProject2/Content/GM_Test.uasset",
+				"C:/Users/Horizoners/source/repos/MyProject2/Content/BP_Player.uasset",
+				"C:/Users/Horizoners/source/repos/MyProject2/Content/NewMap.umap"
+			]
+		}
+	]
+}
